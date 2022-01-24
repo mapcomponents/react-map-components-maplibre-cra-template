@@ -3,6 +3,7 @@ import {MapLibreMap} from "@mapcomponents/react-maplibre"
 
 function App() {
 
+
   return (
       <MapLibreMap options={{
         zoom: 8,
