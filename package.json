@@ -1,6 +1,6 @@
 {
   "name": "@mapcomponents/cra-template",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "private": false,
   "dependencies": {
     "@mapcomponents/react-maplibre": "^0.1.30",
