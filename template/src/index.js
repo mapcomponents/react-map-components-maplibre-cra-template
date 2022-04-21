@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import { MapComponentsProvider } from "@mapcomponents/react-core";
+import { MapComponentsProvider } from "@mapcomponents/react-maplibre";
 
 ReactDOM.render(
 <React.StrictMode>
