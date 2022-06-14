@@ -17,6 +17,6 @@ Creates an nginx container image that serves an optimized production build
 
 Start the image serving on host port 80
 
-```docker run -p 80:8080 {image_hash}```
+```docker run -p 80:80 {image_hash}```
 
 ### Happy Coding!
