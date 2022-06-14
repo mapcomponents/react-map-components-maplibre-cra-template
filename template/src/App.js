@@ -1,6 +1,8 @@
 import "./App.css";
 import { MapLibreMap, MlNavigationTools } from "@mapcomponents/react-maplibre";
 
+import "maplibre-gl/dist/maplibre-gl.css";
+
 function App() {
   return (
     <>
