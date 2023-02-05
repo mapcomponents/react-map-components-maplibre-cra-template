@@ -11,14 +11,14 @@
     },
     "eslintConfig": {
       "extends": ["react-app", "react-app/jest"]
+    },
+    "browserslist": {
+      "production": ["defaults", "not op_mini all", "not ie 11"],
+      "development": [
+        "last 1 chrome version",
+        "last 1 firefox version",
+        "last 1 safari version"
+      ]
     }
-  },
-  "browserslist": {
-    "production": ["defaults", "not op_mini all", "not ie 11"],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
   }
 }
