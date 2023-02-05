@@ -2,6 +2,7 @@
   "name": "@mapcomponents/cra-template",
   "version": "0.1.11",
   "private": false,
+  "license": "MIT",
   "dependencies": {
     "@mapcomponents/react-maplibre": "^0.1.67",
     "@testing-library/react": "^13.4.0",
