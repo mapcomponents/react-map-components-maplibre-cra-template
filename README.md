@@ -6,7 +6,8 @@ An easy way to create a Mapcomponents Maplibre Map-app!
 
 1. Run ```npx create-react-app {myAppName} --template @mapcomponents/cra-template```
 2. ```cd``` into your project
-3. Start the development server ```yarn start``` 
+3. Install all dependencies ```yarn``` 
+4. Start the development server ```yarn start``` 
 
 
 ## Create a build
